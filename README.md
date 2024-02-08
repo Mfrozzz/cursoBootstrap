@@ -1,6 +1,7 @@
 # Curso de Bootstrap
 <br>
 <p>Atribuições iniciais estágio supervisionado</p>
+<p>Fonte: <a href="https://www.youtube.com/playlist?list=PLnDvRpP8Bnexu5wvxogy6N49_S5Xk8Cze" target="_blank">Hora de Codar</a></p>
 
 ### Unicentro - NEAD
 
